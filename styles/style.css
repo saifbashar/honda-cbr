@@ -1,0 +1,34 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* Utilities */
+body {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+h1 {
+  font-size: 48px;
+}
+.background-color {
+  background-color: #264653;
+}
+#orange-bg-color {
+  background-color: #e76f51;
+}
+#text-orange-color {
+  color: #e76f51;
+}
+.color-gray {
+  color: #6c6c6c;
+}
+.orange-border {
+  border: 1px solid #e76f51 !important;
+}
+/* header section */
+.text-header-color {
+  color: #e0e0e0 !important;
+}
+
+/* Fature Bike section */
+.feature-bike-grayscale {
+  filter: grayscale(1);
+}
